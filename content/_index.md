@@ -17,3 +17,4 @@ Lire, emprunter, se rencontrer : la bibliothèque publique du quartier des Acaci
 ![La façade de la bibliothèque, un matin d'automne](facade.jpg)
 {{< /column >}}
 {{< /columns >}}
+
